@@ -1,4 +1,3 @@
-# 해피톡 시연 테스트 페이지입니다.
 
 <script id="happytalkSDK" src="https://design.happytalkio.com/sdk/happytalk.chat.v2.min.js"></script>
 <script type="text/javascript">
@@ -10,7 +9,7 @@
   });
 </script>
 
-## 해피톡 사용에 대한 시연을 진행하겠습니다.
+# 해피톡 사용에 대한 시연을 진행하겠습니다.
 
 보다 자세한 내용은 [해피톡 홈페이지](https://www.happytalk.io/) 에서 확인하실 수 있습니다.
 시연 중 궁금하신 점이 있으시면 언제든지 질문해 주시길 바랍니다.
