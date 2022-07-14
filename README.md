@@ -12,7 +12,7 @@
 
 ## 해피톡 사용에 대한 시연을 진행하겠습니다.
 
-보다 자세한 내용은 해피톡 홈페이지 [editor on GitHub]([https://github.com/1siker/test.github.io/edit/gh-pages/index.md](https://www.happytalk.io/)) 에서 확인하실 수 있습니다.
+보다 자세한 내용은 [해피톡 홈페이지](https://www.happytalk.io/) 에서 확인하실 수 있습니다.
 시연 중 궁금하신 점이 있으시면 언제든지 질문해 주시길 바랍니다.
 
 ### 이용요금
